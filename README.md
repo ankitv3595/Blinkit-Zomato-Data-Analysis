@@ -1,5 +1,7 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<h1> Blinkit-Zomato-Data-Analysis </h1>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
+![image](https://github.com/user-attachments/assets/0fe44ef8-632b-4e51-ac70-acd78afe8c4d)
+
 
 ### <u> Description </u>
 
@@ -69,31 +71,36 @@ DAX (Data Analysis Expressions): Creating calculated measures and columns.
 
 🗂️ Screenshots
 
+![image](https://github.com/user-attachments/assets/97cfeb04-fc34-4b1c-8992-47fcc53a177c)
+
+![image](https://github.com/user-attachments/assets/eeb84ddc-778a-40f0-9079-f6dfc07436de)
+
+
 
 
 
 
 👨‍💼 About This Project
 
-This project delves into key operational metrics of Blinkit’s grocery delivery service. Key findings include:
+- This project delves into key operational metrics of Blinkit’s grocery delivery service. Key findings include:
 
-Peak Demand Hours: Identified specific hours of the day when order volume is highest.
+- Peak Demand Hours: Identified specific hours of the day when order volume is highest.
 
-Product Popularity: Analyzed which product categories contribute the most to revenue.
+- Product Popularity: Analyzed which product categories contribute the most to revenue.
 
-Customer Segments: Classified customers based on their purchasing patterns and revenue contribution.
+- Customer Segments: Classified customers based on their purchasing patterns and revenue contribution.
 
 Revenue Trends: Monitored growth and seasonal variations in revenue.
 
 📈 Skills Learned
 
-Data Cleaning & Transformation: Using SQL and Excel to preprocess datasets.
+- Data Cleaning & Transformation: Using SQL and Excel to preprocess datasets.
 
-Data Visualization: Creating intuitive dashboards with Power BI.
+- Data Visualization: Creating intuitive dashboards with Power BI.
 
-Trend Analysis: Understanding and interpreting business trends.
+- Trend Analysis: Understanding and interpreting business trends.
 
-DAX Formulas: Writing measures and calculated columns for deeper insights.
+- DAX Formulas: Writing measures and calculated columns for deeper insights.
 
 ⚖️ Conclusion
 
